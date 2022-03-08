@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitalerushikesh&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+</p
 <!--
 **pitalerushikesh/pitalerushikesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
