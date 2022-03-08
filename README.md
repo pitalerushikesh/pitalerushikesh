@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hi, I'm Rushikesh Pitale
+## I'm Rushikesh Pitale
 
 ### Specializing in Flutter and React for front end system development and Firebase, MySQL for back end system development.
 
